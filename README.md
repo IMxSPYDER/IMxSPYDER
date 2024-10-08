@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Devarsh Chandiwade!
 # 💫 About Me:
-I'm a Full Stack Developer with a passion for building scalable, responsive applications and learning the latest technologies. I specialize in React, Node.js, Firebase, and Cloud Computing.<br><br>🔭 Currently working on YourHR, a job search platform for job seekers.<br>🌱 Learning more about AI-driven applications and blockchain technologies.<br>💬 Ask me about JavaScript, React, AWS, or anything tech-related!
+I'm a Full Stack Developer with a passion for building scalable, responsive applications and learning the latest technologies. I specialize in React, Node.js, Firebase, and Cloud Computing.<br><br>🌱 Learning more about AI-driven applications and blockchain technologies.<br>💬 Ask me about JavaScript, React, AWS, or anything tech-related!
 
 
 ## 🌐 Socials:
